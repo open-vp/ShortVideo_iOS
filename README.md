@@ -14,7 +14,7 @@ ios短视频录制功能
  [[VPRecord shareInstance] setOrientation:VIDOE_ORIENTATION_FULL]; 
  
   
-//设置视频录制比例：3 ：4          9 ：1 6          1 ：1
+//设置视频录制比例：        3:4          9:16          1:1
 
  [VPRecord shareInstance] setAspectRatio:VIDEO_RATIO_9_16]; 
  
